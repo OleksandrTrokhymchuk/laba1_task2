@@ -1,0 +1,11 @@
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\bin\Debug\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.).exe.config
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\bin\Debug\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.).exe
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\bin\Debug\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.).pdb
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\obj\Debug\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.).csproj.AssemblyReference.cache
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\obj\Debug\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.).csproj.SuggestedBindingRedirects.cache
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\obj\Debug\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.).csproj.CoreCompileInputs.cache
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\obj\Debug\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.).csproj.CopyComplete
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\obj\Debug\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.).exe
+C:\Users\Джо\source\repos\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.)\obj\Debug\ЛАБА 1 ЗАВДАННЯ 2 (2 СЕМ.).pdb
